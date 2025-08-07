@@ -28,7 +28,7 @@ To install, you need to download **RGBE** and **RGBkeygen**. `RGBkeygen` is used
 2. Put the key (`k.png`) in the **same directory** as the program.
 3. To encrypt:
    - Run RGBE → Select `2. Encrypter`
-   - Provide the message text or input file
+   -  input file name (name.type)
    - It will generate `m.png` → send this file to the recipient
 4. To decrypt:
    - Ensure both `k.png` and `m.png` are in the directory
@@ -71,7 +71,7 @@ To install, you need to download **RGBE** and **RGBkeygen**. `RGBkeygen` is used
 2. Убедитесь, что `k.png` лежит в папке с программой
 3. Чтобы **зашифровать**:
    - Запустите RGBE → выберите `2. Encrypter`
-   - Укажите путь к текстовому файлу или введите текст вручную
+   - Укажите путь к текстовому файлу (имя_файла.тип)
    - Получите `m.png` → отправьте этот файл получателю
 4. Чтобы **расшифровать**:
    - Убедитесь, что в папке лежат `k.png` и `m.png`
