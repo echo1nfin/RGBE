@@ -85,6 +85,3 @@ To install, you need to download **RGBE** and **RGBkeygen**. `RGBkeygen` is used
 | **Получатель**  | Хранить `k.png`, получать и расшифровывать `m.png` |
 
 ---
-
-## 🔖 Лицензия
-MIT License
